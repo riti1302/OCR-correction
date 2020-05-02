@@ -1,0 +1,71 @@
+90
+
+Rrp i Cannes
+
+APPLIED ELECTRONICS
+
+ 
+Biased. Since, the transistor T'y is forward biased, through the collector heavy current will flow. So
+The transistor Ty will be saturated. The collector potential of the transistor To will be nearly zero,
+The base of the transistor Ty will be at very potential since it is connected to the base of T, through
+The resistor RP, . The emitter of the transistor T, is also at ground potential. This will make the
+Transistor T) to cut-off. The collector of the transistor T, is maintained at Vow. Now the transistor
+T) is in cut-off state and Ty is in the conducting state (saturation level).
+
+Now a positive pulse of sufficient smphkude at the has of the transistor T; to make it conducting,
+So a collector current will flow through Re, of the transistor T; and the there will be a voltage drop
+Across it. This negative change in the collector voltage of T; will be coupled through C, to the base of
+The transistor T2. This will reduce the collector current of the transistor To. So the collector voltage
+Of T, will rise. This rise in voltage will be coupled to the base of the transistor T, through RP, . So
+The collector current of the transistor T, will rise and the collector voltage decreases simultaneously.
+This drop of the collector voltage of the transistor T, will be coupled to the base of the transistor T,
+
+VIN
+
+T
+I
+I
+T
+I
+I
+I
+
+ 
+|
+]
+(a) Input Voltage
+1
+I
+
+ 
+HBO
+
+-Vcc
++Loco
+
+  
+1
+(b) Base Voltage of Transistor To
+|
+
+\
+L
+
+(c) Output Voltage of Transistor To
+
+Fig. E17.2 Waveform of Multivibrator
+
+The reduction of the collector Gitaasys T, from FCC to zero will force the capacitor C, to discharge
+
+Discharge towards +FCC, the voltage at the base of transistor rises exponentially (Fig. E17.2 Waveform
+VP, ) when the base voltage of the transistor T, rise above OV, T2 starts conducting again. So the
+Voltage at the collector of transistor T2 i.e., across RC, decreases and consequently the base voltage
+Of the transistor T, decreases. Therefore, the transistor T, will be driven to cut-off. The collector
+Voltage of the transistor T, will move TWA +FCC. Capacitor C; therefore starts charging. Now
+The transistor To is ON and T, is OFF. To remains OFF until a positive pulse causes the manostable
+Multivibrator to change its state.
+
+
+The circuit shown in the Fig. E17.1 to be assault with the discrete components. The operating
+Characteristics can be studied with the help of measuring instruments. The waveform to be studied
+With the help of oscilloscope.

@@ -1,0 +1,88 @@
+Computer System Organization 1.5
+
+The main characteristics of main memory are:
+
+E These are semiconductor memories and known as main memory.
+E These are usually volatile memory.
+
+E Data is lost in case power is switched off.
+
+E Its the working memory of the computer.
+
+E Faster than secondary memories.
+
+E
+
+A computer cannot run without primary memory.
+
+The primary memory also has two parts, namely, RAM (Random Access Memory) and ROM (Read Only
+Memory).
+
+What is chip?
+
+Integrated circuit. Generally it
+
+_ is small, thin piece of silicon
+
+- onto which the transistors
+
+' Making up the microprocessor
+
+_ have been etched. A chip might
+Be as large as an inch on side
+
+- and can contain tens of millions
+Of transistors. Simpler
+Processors might consist of a
+Few thousand transistors
+Etched onto a chip just a few
+Millimeters square.
+
+ 
+A ROM is prepared by the manufacturer and cannot be altered once
+The chip has been made. It is the memory unit that performs the read
+Operation only. It does not have a write capability. It is sometimes
+Called non-volatile memory as it is not erased when the system is
+Switched off. The user of the computer cannot alter the contents of
+ROM. A computer can only read the data and programs in ROM. The
+Content of ROM is fixed when the ROM chip or compact disk is
+Manufactured.
+
+Silicon chip is a popular name for integrated circuit. Silicon chips
+
+Are used for processor and memory. The ROM contents are not lost
+When the computer is turned off.
+
+Note
+
+ 
+The start up instructions stored
+On ROM Ina PC are part of the
+BIOS (Basic Input Output
+System). The BIOS also
+Contains the low-level interface
+Code needed to access the
+
+* PROM, It is the short form for Programmable Read Only drives, keyboard, and produce
+Memory. As we know that the user of the computer cannot simple display output.
+To write on them. The contents of Programmable> ROM or
+PROM are altered by the programmer using special processes.
+
+& EPROM. It is the short form for Erasable Programmable Read Only Memory. This memory is
+Used to store information that stays the same, or that is rarely needed to be changed. To change the
+Information on an EPROM, it must be taken from the computer and put into a special device. The entire
+Contents of the EPROM are deleted, and it is ready to program again.
+Light erases the programs in EPROM.
+
+It can be programmed through the use of special electrical pulses. It is possible to integrate the
+Circuitry into the computer, so that the EPROM does not have to be removed from its socket for
+Programming.
+
+ 
+Figure 1.4 A typical ROM.
+ROM memory can be better classified as follows:
+
+ 
+Eases EY
+
+Y the chip to ultraviolet

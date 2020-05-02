@@ -1,0 +1,79 @@
+input and Output Devices
+
+1.25
+
+These printers are slow and noisy and @ not used for personal computers anymore (but they can print mult
+
+layer forms, which neither ink jet or laser printers can do).
+
+e According to the number of wires in the print head, the
+character matrix may be 7X5, 77, 9X7. 9X9 or even
+24X24. The more dots, the better would be the image.
+Line widths are typically 80, 120, 132, 160 or 240,
+
+Speeds are typically from 30 cps to 200 cps.
+Multiple print copy may be redy€ed by the usage of carbon
+paper.
+
+Daisy Wheel Printers |:
+Another popular type of low speed @npact printer is the Daisy Wheel
+printer, which is used when high print quality is demanded. The features
+are:
+
+e An impact shaped-character printer.
+These printers are fitted withelachangeablp print heads called
+daisy wheels. To print each character, the wheel is rotated and
+the appropriate stroke struck against an inked ribbon.
+
+* Speed is around 45 cps (characters per second).
+
+¢ Similar to the dot matrix printers in terms of page size and
+multiple copy printing.
+
+ 
+ 
+
+There are many other low-speed printers. Two angidypes are:
+
+ 
+
+Figure 2.21 A dot matrix printer.
+
+Note
+
+PATRI Oo”
+Daisy-wheel printers produce
+letter-quality print but cannot
+print graphics.
+
+PRR SE
+
+ 
+
+Figure 2.22 A daisy wheel printer.
+
+* Thermal Printers. These are non-impact printers, which print on to special paper whose surface is
+designed with a chemical so that a dot is produced, based on the reaction of the chemical to the heat.
+No ribbon or ink is involved. For users, who want the highest-quality desktop color printing, available
+thermal printers would be ideal. They are very quiet and this gives them a big advantage for some
+
+special applications. For example;
+
+e The Fax and ATM machines gets your receipt on the spot from the
+
+machine with thermal printing technology.
+
+® The tickets that are issued are nowagays printed with thermal printers.
+This is because it is better and faster than ordinary printing.
+
+© Ultrasound printouts are done with thermal printers.
+
+* Businesses like grocery, supermarkets, departmental stores and the
+likes are also making use of thermal printers for the printing of receipt.
+
+ 
+
+Figure 2.23 An Epson thermal printer.
+
+> Inkjet Printers. These are non-impact printers. The most common type of printer for home systems
+is the color inkjet printer. These printers form the image on the page by spraying tiny droplets of ink

@@ -1,0 +1,95 @@
+4.66
+
+ ___  Multimedia a ___  Web Technology (XI)
+
++ Sta ___  ___ d Toolb ___ . This toolb ___   ___  some common tasks like o ___ er applications Providing
+quick access buttons like New, Ope, Save, etc. ;
++ Transport Toolb ___ , This toolb ___  c ___ ains common audio play button for c ___ rolling sou ___  playback
+
+a ___  recording  ___ ature.
+» Status b ___ . This b ___  holds h
+
+a ___  processing information on  ___ e left side. The boxes on  ___ e r ___ ht
+
+side display  ___ e playback sample rate, bit d ___  ___ , chann ___  conf ___ uration, leng ___  of  ___ e active data
+wi ___ ow, CD time remaining, a ___  total fr ___  storage space.
+
+* Workspace. This is  ___ e  ___ ea located
+behi ___   ___ e data wi ___ ows. Audio  ___ lections
+dragged to  ___ e workspace automatically
+become new data wi ___ ow. Wi ___ ows such
+as  ___ e Regions List@ ___  Playlist can be
+docked along  ___ e edges of  ___ e workspace or
+in floating wi ___ ow docks.
+
+» Chann ___  Meters. It displays  ___ e lev ___  of
+ ___ e output of audio s ___ nal. The ___  meters can
+be toggled on/off by choosing Chann ___ 
+Meters from  ___ e V ___ w¢ ___ )
+
+4.6.1 Displa ___ ng a ___  Customizing a
+Toolb ___ 
+
+To display a toolb ___ :
+
+e From  ___ e V ___ w menu, choo ___  Toolb ___ s. The
+Pre ___ rence dialog box is displayed wi ___  a
+list of available toolb ___ s as shown in F ___ ure
+4.16.
+
+e To display  ___  toolb ___ ,  ___ ) ___   ___ e
+correspo ___ ing check box a ___  click OK.
+
+To customize a toolb ___ :
+
+e S ___ ect  ___ e check box fora  ___ ,
+displayed as shown in F ___ ure 5.17.
+
+ ___ 
+
+ ___ en’ |  ___   ___   ___  —  ___   ___ 
+
+‘ ___   ___ :
+
+ ___ 
+
+Ch  ___ :
+
+ 
+
+ 
+
+F ___ ure 4.16 Pre ___ rence dialog box.
+
+ ___  from F ___ ure 4.16 a ___  click Customize. The Customize dialog box is
+
+ 
+
+ 
+
+w ___ . —-.
+
+ ___  T ___ b ___   ___   ___ 
+\
+B ___   ___  Looks:  ___   ___ :
+S ___  ___ ator 4  ___   ___  : .
+1  ___  So  ___ 
+ ___   ___  Retest Open...
+a as  ___  Sf  ___ 
+ ___   ___   ___   ___ ve an -
+ ___  -  ___ .
+ ___   ___  7  ___  R ___ er As.
+«  ___  Do ___  “  ___ 
+ ___   ___   ___  St ___ t - Aah  ___ 
+ ___   ___  : Taper  ___ 
+ ___  Fer a  ___ id React Shut
+ ___  Gd to E ___  copy
+ ___   ___  Ora as Trace Sac
+ ___  Ge Se  ___  Track, e  ___ 
+ ___   ___  i>  ___ ,  ___ 
+a bay  ___  -  ___   ___  -
+am Canc ___ 
+
+ 
+
+F ___ ure 4.17 Customize Toolb ___  dialog box.

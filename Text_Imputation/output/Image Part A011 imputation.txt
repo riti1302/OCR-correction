@@ -1,0 +1,102 @@
+Input and Output Devices 1.21
+
+You can also see some
+page’s contents.
+
+2.2.4 Microphone (Voice/Spgeth Input)
+
+A microphone can be attached to a computer to record
+sound card input or circuitry built into the motherbo
+turned into numbers that represent the origin
+
+Scanners which c ‘teowith indie? - .
+anners which comes with individual letter shapes and creates a text file of the
+
+sound (usually through a
+ard). The sound is digitized
+al analog sound waves — and stored
+
+in ne coat to later process and playback. This approach would climinate the
+nee or eying in data and would facilitafe untrained users to use the computer
+very easily.
+
+ 
+
+Figure 2.11 Microphone voice input.
+
+2.2.5 MIDI Devices
+
+MIDI (Musical Instrument Digital Interface) is a system designed to transmit information
+between electronic musical instruments. A MIDI musical keyboard can be attached to a
+computer and allows a performer to play music that is captured by the computer system
+
+as a Sequence of notes with the assochted timing (instead of recording digitized sound
+waves).
+
+ 
+
+Figure 2.12 A MIDI device.
+2.2.6 MICR
+
+MICR stands for Magnetic Ink Character Recognition. Have you ever noticed a bank cheque or Demand
+Draft? The cheque contains a number at the bottom. The number uses special magnetic ink. Again you will
+notice that the writing style of the characters is different from the usual style.
+
+eh yubsahcasaayash i stat aaa an aM CRRA i,
+
+ 
+  
+
+ph a8
+
+u I} ~ KARIZIIA (LAD)
+MEAR THAUHIKANY TALHAG OST WASHINL
+£28 Aesth,  MANAMAS ITA cage
+
+re BYP 1#S pe: SIRIICORM
+
+  
+
+ee
+
+T tat
+SHWETA GUPTA TROUT Beth WR TY OF ROE
+
+ 
+
+   
+
+/ - Voge 4000 RS
+3 ONE THOUSAND RS. ONLY - mee
+3
+i 32645958430 — i
+VALID FOR Ra. $000,000.00 & UNDER a iy \
+oase260002 INNOWVA PROJECT
+Muley cit) cette wacicae Dap ta Gears ot i Praga poate un t
+re a ‘hy
+a = ae a ee . ;
+Cwrbasaar unOO 2B DODZ7IM BF bP ——— } Magnetic Ink Characters
+“oa een mn eee RHEE TAT TAN
+Note
+GBC
+
+Figure 2.13 MICR in a bank cheque.
+
+ad by a dee (machine), and
+
+Cha etic ink can be re
+mee de, so that a computer
+
+the machine changes these characters into co ;
+can verify the characters for its duplication. So, one can verify whether
+the cheque is valid or no type of processing technique wi n
+
+Magnetic ink is known as Magnetic Ink Character Recognition.
+
+MICR is used to read special
+characters written with special
+magnetized ink. MICR can read
+up to only 2,400 documents/
+min.
+
+ANA ES

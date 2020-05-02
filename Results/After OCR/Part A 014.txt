@@ -1,0 +1,49 @@
+Windows Operating System
+
+4.1 INTRODUCTION
+What is an operating
+system (OS)?
+
+An operating system (OS) is a
+group of c ___  programs
+that coordinates all the
+activities among c ___ 
+
+Operating system is a set of programs which manages the
+resources like hardware and software of the c ___ , processes
+commands, and controls program execution. When we start a c ___ ,
+the operating system is the first software that is loaded into the memory.
+
+This concept is called  ___ . While booting, the operating system
+organizes all hardware and operating program instructions to Co- _ hardware devices. It is the first
+ordinate between them. program loaded into the
+Once the operating program instructions are loaded into the ¢ ___  by a boot program
+memory, other applications like word processor, spreadsheet, database, and remains in memory at all
+times. It makes your c ___ 
+
+paint program and other programs can be  ___  easily.
+functional and is responsible for
+4.2 NEED OF  ___  SYSTEM running all the other software.
+
+In earlier days user had to design the application according to the internal structure of the hardware. Operating
+System was needed to enable the user to design the application without concerning the details of the c ___ ’s
+internal structure. In general the boundary between the hardware and software is transparent to the user.
+
+4.3 FUNCTIONS OF AN OPERATING SYSTEM
+
+At the simplest level, an operating (set) provides  ___ c functions/features to users to maintain all the
+
+programs in c ___  system. The  ___ ¢  ___  of an operating system are:
+1. Booting the c ___ . The process of starting or restarting the c ___  is known as booting.
+2. Resource management. Performs  ___ c c ___  tasks e.g., managing the various peripheral
+devices e.g., mouse, keyboard, printer, etc. For example, most operating systems now are plug and play
+which means a device such as a printer will automatically be dé and configured without any user
+intervention.
+Provides a user interface. When y}{ load an OS into c ___ , it provides us an environment
+like command line or graphical user interface (GUI) where we can do our work.
+Handles system resources. Handles c ___  memory and sharing of the central processing
+unit (CPU) time by various applications or peripheral devices. The operating system ensures that each
+application  ___  the necessary resources it needs in order to maximize the functionality of the overall
+
+system.
+143

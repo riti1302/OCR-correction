@@ -1,0 +1,57 @@
+Experiment 15
+
+OSCHCLATOR CIRCUITS
+
+ 
+
+ 
+
+To Study A. Hartle i
+. y O
+owvefe, poulator and observe and compare the collector and base
+B. R- ‘ '
+r S phase shift oscillator and compare the phase of out-put and
+eedback voltage in Oscillator Circuits ,
+
+A. Hartley Oscillator
+
+Introductory Information
+
+tt a te . . .
+An Oscillator” is eu Glectronid device used to generate an ac signal of desired frequency. The
+frequency of the generated signal depends on circuit parameters. Oscillators may generate sinusoidal
+or non-sinusoidal waveforms, different frequencies
+
+‘Clrequencie3 from very low to very high and of the different
+amplitude.
+
+The positive feedback in a amplifire increases the “closed loop gain” and makes it greater than
+“open loop gain”. It results in instability and operates as an Oscillatory Circuit. The Oscillator circuit
+consists of two reactive elements namely Ind)gtor (L) and Capacitor (C) connected in parallel with
+each other (Fig. £15.1)
+
+Fig, £15.1
+
+7 ee i i ; battery
+
+ircul switch $; is closed, capacitor “C” will be charged to the
+
+In a parallel LC cil we whe ne Se closed C will discharge through L. After the discharge of
+
+Yi ¥ 6) 5 nen , | , :
+
+voltage V. if 3 “the vagnetic field collapses aud induces a voltage In L. The induced voltage nl
+
+ven nad in he voltage in the circuit. This also charges the capacitor. With the collapse 0 t re
+
+tenet vd th oe sacitor C: dischyges through Inductor “T” Theoritically this process continues
+sometic field, the capacitor’ ©” rough he
+
+nnd sen ain a frequency wf? jy this “eink circuit” where
+
+and me ,
+
+1
+t= on VLC
+
+77

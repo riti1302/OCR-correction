@@ -1,0 +1,49 @@
+Windows Operating System
+
+4.1 INTRODUCTION
+What is an operating
+system (OS)?
+
+An operating system (OS) is a
+group of computer programs
+that coordinates all the
+activities among computer
+
+Operating system is a set of programs which manages the
+resources like hardware and software of the computer, processes
+commands, and controls program execution. When we start a computer,
+the operating system is the first software that is loaded into the memory.
+
+This concept is called bootittg. While booting, the operating system
+organizes all hardware and operating program instructions to Co- _ hardware devices. It is the first
+ordinate between them. program loaded into the
+Once the operating program instructions are loaded into the ¢omputer by a boot program
+memory, other applications like word processor, spreadsheet, database, and remains in memory at all
+times. It makes your computer
+
+paint program and other programs can be exepated easily.
+functional and is responsible for
+4.2 NEED OF OPERANING SYSTEM running all the other software.
+
+In earlier days user had to design the application according to the internal structure of the hardware. Operating
+System was needed to enable the user to design the application without concerning the details of the computer’s
+internal structure. In general the boundary between the hardware and software is transparent to the user.
+
+4.3 FUNCTIONS OF AN OPERATING SYSTEM
+
+At the simplest level, an operating (set) provides basic functions/features to users to maintain all the
+
+programs in computer system. The basi¢ Tunctions of an operating system are:
+1. Booting the computer. The process of starting or restarting the computer is known as booting.
+2. Resource management. Performs basic computer tasks e.g., managing the various peripheral
+devices e.g., mouse, keyboard, printer, etc. For example, most operating systems now are plug and play
+which means a device such as a printer will automatically be dé and configured without any user
+intervention.
+Provides a user interface. When y}{ load an OS into computer, it provides us an environment
+like command line or graphical user interface (GUI) where we can do our work.
+Handles system resources. Handles computer memory and sharing of the central processing
+unit (CPU) time by various applications or peripheral devices. The operating system ensures that each
+application gcts the necessary resources it needs in order to maximize the functionality of the overall
+
+system.
+143

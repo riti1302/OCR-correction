@@ -1,0 +1,108 @@
+Ans.
+
+. What does an Anchor Point do?
+Ans.
+
+6.
+Ans.
+
+7.
+Ans.
+8.
+Ans.
+9.
+Ans.
+10.
+
+Ans.
+11.
+Ans.
+
+12.
+AM's.
+
+13.
+Ans.
+14.
+Ans.
+15.
+Ans.
+16.
+Ans.
+
+
+- What happens as you {Click} and hold the mouse button when using the Airbrush Tool?
+Ans.
+
+- What does the Rubber Stamp Tool do?
+Ans.
+
+
+The Rubber Stamp Tool allows painting with pixel content from the same or a different image. We select
+An area of the image to duplicate or clone by {Alt/Option-Clicking} the area we wish to duplicate.
+How do you create Custom Gradients?
+
+We access the Gradient Editor by {Double Clicking} on the Gradient Preview in the Options Bar,
+
+An Anchor Point connects 2 Line Segments, in a Path or Shape, together. They are major refer enc,
+Points that help define the shape of the object.
+What does a Direction Line do?
+
+A Direction Line allows for curvature in a Line Segment. The user can adjust the length of a Direction;,
+Line and the smoothness of the ye that it is attached to Will be affected.
+
+Can the Pen Tool be used to draw Shapes? If so, how?
+
+Yes. Select the Pen Tool and {Click} on the Create New Shape Layer Button in the Options Bar.
+
+Ufa Layer is titled Background what does this indicate?
+
+That it is the bottom Layer in the Stacking order and cannot be edited.
+
+What are the main advantages of Layer?
+
+Layers allow the user to isolate and organize material. -
+
+If two Layers are linked together and you deposition or move one of the linked Layers, does the position
+Of the other Layer change as well?
+
+
+
+Layer Styles are the combinations of effect's that can be applied to the contents of a Layer. A typical
+Application for a Layer Style would be a level and drop shadow applied to a button.
+
+How do you place a Layer inside a Layer Set?
+
+We create a New Layer Set by {Clicking} on the New Layer Set Button in the Layers Palette and drag ABC
+Drop Layers onto it.
+
+What dialog box allows you to change the PR of a Layer or Layer Set?
+
+Layer Properties Dialog Box.
+
+How do you expand and collapse Layer Sets and Layer Styles in the Layers Palette?
+
+We click on the small triangle to the right of the Layer or Style Label in the Layers Palette.
+What are the types of tones in Photo shop?
+
+Shadows, Mid tones and Highlights.
+
+What are Filters?
+
+Filters are a set of pare-set special effects that we apply to the entire images.
+
+Review Questions
+
+Awe PR
+
+How do you subtract one Shape from another? .
+What is the difference between a collection of Shapes on a Shape Layer and a combined Shape.
+How do you increase the number of sides in a Polygonal Shape?
+
+What type of effects can be used to make up a Layer Style?
+
+. How do you add a Drop Shadow to a Shape?
+
+How do you create a New Style and how would you access it if you need to use it sometime the
+Future? . | |
+What is scanning? Write the basic steps to scan an image in Photo shop.

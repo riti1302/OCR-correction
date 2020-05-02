@@ -1,0 +1,70 @@
+Concepts of Software
+
+1.33
+
+3.3.2 Application Software
+
+Application softre Is a set of programs designed for specific uses = What
+or to perform specific tasks. For example, the various application
+softre examples are MS Office, OpenOffice, Media Player, etc.
+
+is application
+softre?
+
+Educational softre, media development softre, antivirus softre, The soft re which is used for
+etc. are the different types of softre applications. Application specific application is called
+softre can be custom-made but is usually purchased off the shelf. application softre.
+
+For example, accounting programs, database programs, graphicggpaint, »
+drawing, and image editing programs, etc.
+
+Application softres are categorized into two parts:
+
+I .
+General Purpose Application Software |
+
+General purpose application softre
+Specific purpose application softre
+
+ 
+
+ 
+
+A general purpose softre would be anything that aids in allowing you to accomplish simple computer related
+tasks. For example: word processing softre, spreadsheet softre, etc.
+
+Processors. A word processor (such as MS-Word, OpenOffice.org Writer, etc.) is a general
+purpose application softre that enables us to create, edit, print and save documents for future
+revision and retrieval.
+
+spreadsheet This application softre consists of sheets having a matrix of rows and columns.
+The intersection areas of rows and columns are called Cells. The Cells of a spreadsheet are used for
+entering numbers, text, formulae and functions. For example, most common spreadsheet application
+softres are Microsoft Excel and OpenOffice.org Cal.
+
+Presentation. Presentation packages are used to communicate ideas to those who might be unfamiliar
+with a situation or who need a simple but highly effective overview oaf topic as a straight character-
+based (table-based) report. For example, sales analysis, product demonstration, advertisement, product
+marketing, etc. The most common examples of presentation packages are Microsoft PowerPoint and
+OpenOffice.org Impress.
+
+Database Management. A database is a collection of inter-related data stored together with
+controlled redundancy to serve one or more applications in an optional fashion. For example, MS-
+
+Access, OpenOffice.org Base, Oracle, Subs, Fox Pro, etc.
+
+Each item or piece of information in a database is known as a field and a group of related fields is
+referred to as a record. A database is nothing but a collection of such records.
+
+Graphics Packages. Computer accessible data can readily be converted to graphic form on the
+screen as well as on paper using dot matrix printers or plotters. With plotters it is possible to have
+different colors. Typical graphics softre enables data to be plotted as: line chart, bar chart and pie
+
+chart.
+
+Desktop Pu bi}&hing Packages. Desktop Publishing Packages are very popular in Indian context.
+Newer publishing packages also provide certain inbuilt formats such as brochures, newsletters,
+flyers, etc. which can be used directly. Already created text can be very easily put in these packages,
+so as the graphics placements. Many DTP packages for English and languages other than English are
+available. Microsoft Publisher, Page Maker, Corel Venture are few popular names. Desktop Publishing
+packages, in general, are better equipped in Apple-Macintosh computers.

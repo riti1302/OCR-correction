@@ -1,0 +1,42 @@
+Experiment 15
+
+OSCHCLATOR CIRCUITS
+
+ 
+ 
+To Study A. Harte i
+. Y O
+Owvefe, emulator and observe and compare the collector and base
+R S phase shift oscillator and compare the phase of out-put and
+Eedback voltage in Oscillator Circuits,
+
+A. Harley Oscillator
+
+Introductory Information
+
+Tt a Te. . .
+Frequency of the generated signal depends on circuit parameters. Oscillators may generate sinusoidal
+Or non-sinusoidal waveform, different frequencies
+
+Amplitude.
+
+Consists of two reactive elements namely Ind)gator (L) and Capacitor (C) connected in parallel with
+
+
+7 he i ; battery
+
+
+In a parallel LC oil we the ne Se closed C will discharge through L. After the discharge of
+
+
+
+Ven and in the voltage in the circuit. This also charges the capacitor. With the collapse 0 t re
+
+
+
+And me,
+
+1
+T= on VLC
+
+77

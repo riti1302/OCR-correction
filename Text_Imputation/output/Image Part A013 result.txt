@@ -1,0 +1,67 @@
+Concepts of Software
+
+1.33
+
+3.3.2 Application Software
+
+Application software Is a set of programs designed for specific uses = What
+Or to perform specific tasks. For example, the various application
+Software examples are MS Office, OpenOffice, Media Player, etc.
+
+Is application
+Software?
+
+Educational software, media development software, anti virus software, The software re which is used for
+Etc. are the different types of software applications. Application specific application is called
+Software can be custom-made but is usually purchased off the shelf. Application software.
+
+Drawing, and image editing programs, etc.
+
+Application software are categorized into two parts:
+
+I.
+General Purpose Application Software |
+
+General purpose application software
+Specific purpose application software
+
+ 
+ 
+A general purpose software would be anything that aids in allowing you to accomplish simple computer related
+Tasks. For example: word processing software, spreadsheet software, etc.
+
+Processors. A word processor (such as MS-Word, OpenOffice.org Writer, etc.) is a general
+Purpose application software that enables us to create, edit, print and save documents for future
+Revision and retrieval.
+
+Spreadsheet This application software consists of sheets having a matrix of rows and columns.
+The intersection areas of rows and columns are called Cells. The Cells of a spreadsheet are used for
+Entering numbers, text, formula and functions. For example, most common spreadsheet application
+Softwares are Microsoft Excel and OpenOffice.org Call.
+
+Presentation. Presentation packages are used to communicate ideas to those who might be unfamiliar
+With a situation or who need a simple but highly effective overview of topic as a straight character-
+Based (table-based) report. For example, sales analysis, product demonstration, advertisement, product
+Marketing, etc. The most common examples of presentation packages are Microsoft PowerPoint and
+OpenOffice.org Impress.
+
+Database Management. A database is a collection of inter-related data stored together with
+Controlled redundancy to serve one or more applications in an optional fashion. For example, MS-
+
+Access, OpenOffice.org Base, Oracle, Base, FoxPro, etc.
+
+Each item or piece of information in a database is known as a field and a group of related fields is
+Referred to as a record. A database is nothing but a collection of such records.
+
+Graphics Packages. Computer accessible data can readily be converted to graphic form on the
+Screen as well as on paper using dot matrix printers or plotters. With plotters it is possible to have
+Different colors. Typical graphics software enables data to be plotted as: line chart, bar chart and pie
+
+Chart.
+
+Desktop Pub}thing Packages. Desktop Publishing Packages are very popular in Indian context.
+Newer publishing packages also provide certain inbuilt formats such as brochures, newsletters,
+Flyers, etc. which can be used directly. Already created text can be very easily put in these packages,
+So as the graphics placements. Many DTP packages for English and languages other than English are
+Available. Microsoft Publisher, PageMaker, Core Venture are few popular names. Desktop Publishing
+Packages, in general, are better equipped in Apple-Macintosh computers.

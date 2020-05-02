@@ -1,0 +1,57 @@
+Experiment 15
+
+ESCALATOR CIRCUITS
+
+ 
+
+ 
+
+To Study A. Hurtle i
+. y O
+overfed, Plato and observe and compare The collector and base
+B. R- ‘ '
+r S phase shift osCOLlator and compare The phase of out-put and
+Redback voltage in OsCOLlator Circuits ,
+
+A. Hurtley OsCOLlator
+
+Introductory Information
+
+Ty a Te . . .
+An OsCOLlator” is EU Electronic device used to geNEraTe an ac signal of desired frequency. The
+frequency of The geNEraTed signal depends on circuit parameTers. OsCOLlators may geNEraTe sinusoidal
+or non-sinusoidal wave forms, different frequencies
+
+‘Clarence from very low to very high and of The different
+amplitude.
+
+The positive feedback in a amplifier increases The “closed loop gIan” and makes it greaTer Than
+“open loop gIan”. It results in instability and operaTes as an OsCOLlatory Circuit. The OsCOLlator circuit
+consists of two reactive elements namely Ind)gator (L) and Capacitor (C) conNEcTed in parallel wiTh
+each oTher (Fig. £15.1)
+
+Fig, £15.1
+
+7 EEO i i ; baTyery
+
+ACLU switch $; is closed, capacitor “C” will be charged to The
+
+In a parallel LC COL we whee NE Se closed C will discharge Through L. AfTer The discharge of
+
+Yo ¥ 6) 5 NEn , | , :
+
+voltage V. if 3 “The vagNEtic field collapses Audi induces a voltage In L. The induced voltage nil
+
+Venn and in he voltage in The circuit. This also charges The capacitor. WiTh The collapse 0 t re
+
+TeNEt VD Th OE suitor C: discharges Through Induct or “T” Theoretically This process continues
+some tic field, The capacitor’ ©” rough he
+
+ND sen Ian a frequency F? Jay This “ink circuit” wheere
+
+and me ,
+
+1
+t= on LC
+
+77

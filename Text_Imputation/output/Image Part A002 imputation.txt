@@ -1,0 +1,46 @@
+4.58 Saraswati Multimedia and Web Technology (xt)
+
+Movies on video builds 30 entire frapaés or pictures every second; the speed with which each frame is
+replaced by the next one makes the images appear to blend smoothly into movement. Computer animations can
+be effective at 12 to 15 fps (or more). Anything less results in a jerky motion, as the eye detects the Changes from
+one frame to the next.
+
+4.3 TYPES OF ANIMATIONS
+
+There are two main types of animagiéns which are used in multimedia applications.
+
+» The first type of animation. 2D animation or linear animation, is the simple movement of objects on the
+screen, generally through linear translation. Multimedia development environments often provide the
+necessary tools to perform this simple animation procedure.
+
+» The original creation of animation. 3D animation, however, is very technically and artistically involved
+as well as time consuming. Three dimen¥ional objects are created using a mathematical model. Each
+object may be shown in various views, giving the user a realistic sense of third dimension.
+
+Besides 2D animation and 3D animation, there are also other special effects techniques in computer
+animation such as morphing and warping.
+
+ 
+
+Type of animation in which interpolations betyeen specified points on two or more images create a transitional
+effect. It gives the illusion that the first image is changing into the last one.
+
+ 
+
+Warping is a related special effect that allows you to manipulate a single image. For example, you could stretch
+a facial feature to change a frown into a smile.
+
+4.4 WHAT IS MORPHING?
+
+Morphing is a special technique that GreateS)a smooth, controlled transformation of one image into another.
+The morphing effect is widely used for various tasks ranging from generation of fancy special effects, smoothing
+transitions between video frames to funny warping of faces and mixing parent’s photos for prediction of how
+their child will look like as shown in Figure 4.1 (or recreation of past hero image(fron he photos of his
+descendants).
+
+ 
+
+Figure 4.1.A Morphing example.
+
+Aclassic example of this sort of transformation is shown in the well-known Black Or White video clip by
+Michael Jackson, where the faces of different people change one into another.

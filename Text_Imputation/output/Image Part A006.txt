@@ -1,0 +1,55 @@
+UNIT |
+
+Compu ___ r Sys ___ m Or ___ ization
+
+1.1 INTRODUCTION
+
+Nowadays, compu ___ rs are  ___  in ___ gral  ___  our lives, They are aged for yes  ___   ___   ___  Son Bi ___ e
+
+and railways,  ___  of  ___ lephone and elect  ___   ___ , deposit  ___   ___  of pave  ___  /  ___   ___ ,  ___   ___ 
+
+of business d ___ , forecasti ___ , of  ___   ___ ,  ___  Of
+
+diseases, searchi ___ , for  ___  on  ___ e  ___ ,  ___ . Compu ___ rs What  ___  Compu ___ r?
+
+are also used ex ___ nsively in schools, universities, Of  ___   ___ ,  ___  A compu ___ r is an Glon ___ onic
+
+industry, movie industry,  ___  research, law  ___ , bastion  ___ ,  ___  which tan accepts/
+
+ ___ .  ___  inputs d ___ /instructions, stores
+The  ___ rm €ompu ___ dis derived from  ___ e word compu ___ . I he word  ___   ___   ___ e da ___  secordi ___ 
+
+compu ___  means lo ga ___ nta ___ , A compu ___ r is an electronic device which  ___   ___ e  ___ t of instructions and
+
+lakes input from  ___ e  ___ ,  ___  I and  ___   ___ e required  ___  in produce  ___ e results of  ___ e
+
+ ___ e form of display OF  ___ ,  ___  int  ___   ___   ___   ___ 
+From  ___ e  ___ ) we know ( ___  compu ___ r mainly woke
+
+on  ___ e  ___ nciple and is sho ___  in  ___  1,1;
+
+e Input. ‘Taki ___   ___ e  ___  in  ___ e  ___   ___  instruction and d ___ ,
+e Process, Processi ___   ___ e instruction and  ___  and slori ___   ___ e results,
+¢ Output. Display  ___ e stored results  ___   ___   ___ e  ___  format,
+
+Input —---~~—»> Process -~------+  ___ 
+
+Figure 1.1 Basic operations of 4 compu ___ r.
+
+1.2 MICROPROCESSOR
+
+The main component of a compu ___ r sys ___ m  ___   ___ , ‘J he  ___  also kno ___   ___   ___ , op
+central processi ___  unit containi ___   ___ e Ari ___ metic Logic Units (ALAS) and  ___ e  ___  Units (CV ,o” 4  ___ 
+Computation e ___ ine  ___ at is fabrica ___ d  ___  si ___ le  ___  (Large Scale In ___ pra ___ d) chip. ‘ ___   ___  5  ___  .
+heart of any normal compu ___ r, whe ___ er it is wan machine, a server  ___  laptop, ,
+
+Compu ___ r is also a  ___ pe of sys ___ m  ___   ___  is a group of in ___ gra ___ d parts  ___   ___  used  ___   ___  any
+
+,
+
+ ___  purpose problem by exceuti ___   ___ e suitable program.
+
+B ___ ore we go into detail, Jet us outline  ___ e basic Components Of a compu ___ r sys ___ m ‘These are
+
+* Primary Memory. ‘lo store d ___  and programs  ___ ,  ___   ___ , RAM
+7 Be *

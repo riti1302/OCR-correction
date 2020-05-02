@@ -1,0 +1,95 @@
+4.66
+
+Sanaswatt Multimedia and Web Technology (XI)
+
++ Standard Toolbar. This toolbar perloye some common tasks like other applications Providing
+quick access buttons like New, Ope, Save, etc. ;
++ Transport Toolbar, This toolbar contains common audio play button for controlling sound playback
+
+and recording feature.
+» Status bar. This bar holds h
+
+and processing information on the left side. The boxes on the right
+
+side display the playback sample rate, bit depth, channel configuration, length of the active data
+window, CD time remaining, and total free storage space.
+
+* Workspace. This is the area located
+behind the data windows. Audio selections
+dragged to the workspace automatically
+become new data window. Windows such
+as the Regions List@nd Playlist can be
+docked along the edges of the workspace or
+in floating window docks.
+
+» Channel Meters. It displays the level of
+the output of audio signal. These meters can
+be toggled on/off by choosing Channel
+Meters from the View¢fenu)
+
+4.6.1 Displaying and Customizing a
+Toolbar
+
+To display a toolbar:
+
+e From the View menu, choose Toolbars. The
+Preference dialog box is displayed with a
+list of available toolbars as shown in Figure
+4.16.
+
+e To display a_ toolbar, se)kct the
+corresponding check box and click OK.
+
+To customize a toolbar:
+
+e Select the check box fora tod,
+displayed as shown in Figure 5.17.
+
+Praterences
+
+Goren’ | Oerey Ederg Labee — Fae Tyoes
+
+‘Raa Toomer:
+
+NERS
+
+Ch Cece:
+
+ 
+
+ 
+
+Figure 4.16 Preference dialog box.
+
+ar from Figure 4.16 and click Customize. The Customize dialog box is
+
+ 
+
+ 
+
+wee. —-.
+
+Suutonere Toebar oe el
+\
+Boy ddahe Looks: Currerit inede:
+Separator 4 Ai ie : .
+1 Qanesrat So Sapwave
+eohag AE Retest Open...
+a as ee Sf cere
+ie Pape _MereUp seve an -
+iy - th.
+ae EOD 7 ig Rarer As.
+« Bove Doar “ ae
+oe Gor ae Start - Aah Pegeh
+nd Resa : Taper ahs
+ont Fer a arid React Shut
+oy Gd to End copy
+naGo fe Ora as Trace Sac
+aay Ge Se Ment Track, e Ay
+Degen cet i> Ps, Gpicas
+a bay yi - tla ep -
+am Cancel
+
+ 
+
+Figure 4.17 Customize Toolbar dialog box.

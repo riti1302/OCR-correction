@@ -1,0 +1,87 @@
+Input and Output Devices 1.21
+
+You can Also see some
+
+2.2.4 MicropHoNE (Voice/Speech Input)
+
+A microphone can be attached to a computer to record
+SoUNd card input or circuitry built into the mother
+TurNEd into numbers that represent the origin
+
+AnNE's which comes With individual letter shapes and creates a text file of the
+
+SoUNd (usually through a
+Rad). The sound is digitized
+
+In NE cat to later process and playback. This approach would culminate the
+Nee or eyeing in data and would facilitate Untrained users to use the computer
+Very easily.
+
+ 
+Figure 2.11 MicropHoNE voice input.
+
+2.2.5 MIDI Devices
+
+MIDI (MusicAL Instrument DigitAL Interface) is a system Designed to transmit information
+BetwEEOn electronic musical instruments. A MIDI musical keyboard can be attached to a
+Computer and Allows a Performer to play music that is captured by the computer system
+
+As a Sequence of notes With the associated timing (instead of recording digitized sound
+Waves).
+
+ 
+Figure 2.12 A MIDI Device.
+2.2.6 MI CR
+
+MI CR stands for MagNEtic Ink Character Recognition. Have you ever noticed a bank cheese or Demand
+Draft? The cheese contains a number at the bottom. The number uses special magnetic ink. Again you Will
+NOTice that the writing style of the characters is different from the usual style.
+
+Eh yubsahcasaayash i stat AAA an AM CR RA i,
+
+  
+PH A
+
+U I} ~ KARI'S (LAD)
+ME AR THANKING TALC OUST WASHING
+
+Re BP 1#S PE: SITCOM
+
+ 
+EEO
+
+T tat
+SWEAT GUPTA TROUT Beth WRY TY OF ROE
+
+ 
+ 
+/ - Vogue 4000 RS
+3 ONE THOUSAND RS. ONLY - meet
+3
+VALID FOR Ra. $000,000.00 & UNDER a \
+OAS's INVAR PROJECT
+Mule cit) cert Wicca ADP ta Gears OT i Prague Pate UN t
+A = ea a EEO. ;
+Note
+BC
+
+Figure 2.13 MI CR in a bank cheese.
+
+Ad by a deep (machine), and
+
+Char etc ink can be re
+MEEO DE, so that a computer
+
+The machine changes these characters into co ;
+Can verify the characters for its duplication. So, one can verify whether
+The cheese is valid or no type of processing technique WI n
+
+MagNEtic ink is known as MagNEtic Ink Character Recognition.
+
+MI CR is used to read special
+Characters written With special
+MagNEtized ink. MI CR can read
+Up to only 2,400 documents/
+Min.
+
+ANA ES

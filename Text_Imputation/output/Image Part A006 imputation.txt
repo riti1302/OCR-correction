@@ -1,0 +1,55 @@
+UNIT |
+
+Computer System Organization
+
+1.1 INTRODUCTION
+
+Nowadays, computers are wn integral parlol our lives, They are aged for yes ectien ASO Ds Son Binge
+
+and railways, paynient of telephone and elect icity bili, deposit sapued watbvepsataseal of pave anes / Satansy baat, pO Oe
+
+of business data, forecasting, of wepdes GONdIHODS, Giagnosis Of
+
+diseases, searching, for ifounation on the Infemel, clo. Computers What te Computer?
+
+are also used extensively in schools, universities, Of gan Zaons, Ihde A computer is an Glonteonic
+
+industry, movie industry, scientifie research, law finns, bastion indisty, systonm which tan accepts/
+
+cle. ee inputs data/instructions, stores
+The term €omputedis derived from the word compute. I he word ng procens the date secording
+
+compute means lo gatentate, A computer is an electronic device which te the sat of instructions and
+
+lakes input from the USGL, processet I and pives the required posuyt in produce the results of the
+
+the form of display OF pri, Procastssitigs int sa spss iflesS feorrescst
+From the abovedclinilion) we know (hata computer mainly woke
+
+on the principle and is shown in Fipure 1,1;
+
+e Input. ‘Taking the inpul in the foun ef instruction and data,
+e Process, Processing the instruction and dave and sloring the results,
+¢ Output. Display the stored results oF ouyatiLinto the pri format,
+
+Input —---~~—»> Process -~------+ Qutput
+
+Figure 1.1 Basic operations of 4 computer.
+
+1.2 MICROPROCESSOR
+
+The main component of a computer system IK Microprocespor, ‘J he IniGroprocessor also known ata CPt, op
+central processing unit containing the Arithmetic Logic Units (ALAS) and the Contros Units (CV ,o” 4 cannplece
+Computation engine that is fabricated ona single LSI (Large Scale Inteprated) chip. ‘Ihe HUICLOpIOCENor 5 th .
+heart of any normal computer, whether it is wan machine, a server ota laptop, ,
+
+Computer is also a type of system becyie jt is a group of integrated parts whieh ws used ty aglve any
+
+,
+
+ecneral purpose problem by exceuting the suitable program.
+
+Before we go into detail, Jet us outline the basic Components Of a computer system ‘These are
+
+* Primary Memory. ‘lo store data and programs fenporarily, bor exainple, RAM
+7 Be *

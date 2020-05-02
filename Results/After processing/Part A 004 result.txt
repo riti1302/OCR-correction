@@ -1,0 +1,68 @@
+4.72 Sea sett Multimedia AA Web Technology (x)
+
+Clear/Delete. Deletes a selected portion of data, but dozen’t copy it oNTo the chipboard (st Om,
+Delete).
+e Undo. You can easily undo and redo edit op eration. even prior to your last save op erator,
+
+- Undo any edit op eration by choosing Undo from the Edit menu, or by clickking the Undo taste, ts
+the Standard toolbar.
+
+- Redo any undone edit op eration by Redo from the Edit menu, or by clickking Trey peas.
+button on the Standard toolbar.
+
+Sound Copying and Pasting |
+
+Data can be copied from one data window (the source) and pasted iNTo another data window (the distinctive,.
+To copy and paste sound:
+
+If both source and destination files already exist, open them both. Or, if you waNT to copy paNT of z
+sound wave from an existing file and poke it iNTo a new, empty file, open the existing file and creates
+new one.
+
+If the source’s data window is not already the active window, bring it to the froNT by clickking on its tine
+bar.
+
+Select the segmeNT of sound that VOA waNT to copy by drAgging across the sound wave.
+Pull down the Edit menu, and select Cop.
+Make the destination’s data window active by clickking on its title bar.
+
+If the destination file already coNTains digitized sound, then clickk with the mouse where you would Ice
+the copied sound to be inserted.
+
+Pull down the Edit menu and select Paste. The sound wave will appear in the destination data window
+Click the Play button to hear VOAr¢ election,
+
+4.10 SOUND EFFECTS
+
+The Effects menu lets you add all sorts of special effects to your recording. For example. you can add an echo.
+
+distort the sound, bend the pitch or add some chorus. This menu is only available when a data window is op er
+To apply effects: Ag
+
+ 
+
+ 
+
+VT
+e If you waNT the effect to apply to the : ~-_ > >
+eNTire sound file. don t select sag UN
+anything in the data widow. If you BS es
+waNT the effect to happen only for a i SE
+suBSet of sound, select where you - , ET Vera Shah bone
+waNT it 0 Occur. ~ ET tees beg Rhee Rea
+e Pull down the Effects menu and Sere ea Le _
+choose an effect ( say Chorus). A cRhee NT tea
+dialog box with options for the © (7° *°®T Cm steel
+selected effect will appear (see Fogre 9 “SWOT *R RE RI _
+427) “ear eaT GIL, 3
+© Choose the desired effect and give . ">" ~™ -
+: : > ea fee Do cea.
+in differeNT levels and ea SW
+some angers AA's hAg Seen sea, —-
+click
+e Play the sound to hear the effect.
+a
+
+of
+
+F ogre 4.27 Chorus effect dialog box.

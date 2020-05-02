@@ -1,0 +1,102 @@
+Input and Output Devices 1.21
+
+You can  ___ so s ___  some
+page’s contents.
+
+2.2.4 Micro ___ o ___  (Voice/ ___  Input)
+
+A micro ___ o ___  can be attached to a computer to record
+so ___ d c ___  input or circuitry built into the  ___ 
+tur ___ d into numbers that represent the origin
+
+Sc ___  which c ‘ ___  indie? - .
+ ___  which comes  ___ th individu ___  letter sha ___ s and creates a text file of the
+
+so ___ d (usu ___ ly through a
+ ___ ). The so ___ d is digitized
+ ___  an ___ og so ___ d waves — and stored
+
+in  ___  c ___ t to later process and playback. This appr ___ ch would  ___  the
+ ___ e or  ___  in data and would  ___   ___ trai ___ d users to use the computer
+very easily.
+
+ 
+
+Figure 2.11 Micro ___ o ___  voice input.
+
+2.2.5 MIDI Devices
+
+MIDI (Music ___  Instrument Digit ___  Interface) is a system  ___ sig ___ d to transmit information
+betw ___ n electronic music ___  instruments. A MIDI music ___  keybo ___  can be attached to a
+computer and  ___ lows a  ___ rformer to play music that is captured by the computer system
+
+as a Sequence of n ___ es  ___ th the  ___  timing (instead of recording digitized so ___ d
+waves).
+
+ 
+
+Figure 2.12 A MIDI  ___ vice.
+2.2.6  ___ 
+
+ ___  stands for Mag ___ tic Ink  ___ racter Recognition. Have you ever n ___ iced a bank cheque or Demand
+Draft? The cheque contains a number at the b ___ tom. The number uses s ___ ci ___  mag ___ tic ink. Again you  ___ ll
+n ___ ice that the writing style of the characters is different from the usu ___  style.
+
+eh  ___  i stat  ___  an  ___   ___  i,
+
+ 
+  
+
+ ___   ___ 
+
+u I} ~  ___  (LAD)
+ ___   ___   ___   ___   ___ 
+£28  ___ ,   ___   ___  cage
+
+re  ___  1#S  ___ :  ___ 
+
+  
+
+ ___ 
+
+T tat
+ ___  GUPTA TROUT Beth  ___  TY OF ROE
+
+ 
+
+   
+
+/ -  ___  4000 RS
+3 ONE THOUSAND RS. ONLY - m ___ 
+3
+i 32645958430 — i
+VALID FOR Ra. $000,000.00 & UNDER a  ___  \
+ ___   ___  PROJECT
+ ___  cit)  ___   ___   ___  ta Gears  ___  i  ___   ___   ___  t
+re a ‘ ___ 
+a =  ___  a  ___  . ;
+ ___   ___ OO  ___   ___  BF  ___  ——— } Mag ___ tic Ink  ___ racters
+“ ___   ___ n  ___   ___ e RHEE TAT TAN
+N ___ e
+ ___ 
+
+Figure 2.13  ___  in a bank cheque.
+
+ad by a d ___  (machi ___ ), and
+
+ ___   ___  ink can be re
+m ___   ___ , so that a computer
+
+the machi ___  changes these characters into co ;
+can verify the characters for its duplication. So, o ___  can verify whether
+the cheque is v ___ id or no ty ___  of processing technique  ___  n
+
+Mag ___ tic ink is known as Mag ___ tic Ink  ___ racter Recognition.
+
+ ___  is used to read s ___ ci ___ 
+characters written  ___ th s ___ ci ___ 
+mag ___ tized ink.  ___  can read
+up to only 2,400 documents/
+min.
+
+ANA ES

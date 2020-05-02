@@ -1,0 +1,48 @@
+REVIEW QUESTIONS ..... ___  1.76
+ ___   ___   ___   ___  SOILED 1.77
+
+Las Exercises
+
+UNIT 2: WEB  ___  T
+
+Chapter-1 Web Development Concepts - ___ : ___  2.1-2.14
+ ___  INTRODUCTION on  ___ ccscssessecsuesaessecsssssecsscesssssssussuscsesesccsucansaseseusesserssasesens ___ ncerseses 2.1
+1.20 WHAT IS INTERNET?  ___ ... scsccssecsesssescsncssucsssecssscssscssecsarecsssssecerecsssseneesuseeccarsesseans ___ nsenecenes 2.1
+1.3 W ___ D WIDE WEB  ___ .  ___  2.1
+1.4 INTERNET ADDRESSING—DOMAIN NAME SYSTEM ( ___ ) ....... ___  2.2
+1.5 UNIFORM RESOURCE LOCATOR ( ___ ) ...... ___ ® 2.3
+1.6 DIFFERENT PROTOCOLS FOR URLS .....c. ___  2.5
+1.7 E-MAIL PROTOCOLS  ___ ... esessssesssessccsssssesecsecsussacsessssssssessnsescascsacsesaconeneeesessseeseasensav ___ ses 2.7
+1.8 VOIP PROTOCOL... tessecssssessssssrssesessesesecuesesssccesavsucsnsssssesessseesarseeneetsessverseesens ___ aneeney 2.7
+1.9  ___  R  ___  es 2.8
+1.10 WEB SERVER, WEBSITE, WEB PAGE AND HOME PAGE ....... ___  2.9
+1.11 WEB SERVER ....... ___  es 2.10
+1.12 WEB HOSTING 0... ceccsesscssseesssesscsusecssscsccscsssesecsesesseneesssasenseeeesecssensscacear ___ aneaeenes 2.11
+Points  ___   ___  ........: ___  2.11
+SOLVED EXERCISES ...... ___ ecsecesesssccecsssssessesecssreseeeusecs ___ scnesccsusansssacenssssesteceesessseseaneceeeeseseesaseseseneseeseees 2.12
+Review  ___  sesessuasasasesessscesscsssscsussssssvsncsusassssnesseasaneavasensavsussestscsucassssesscacseeesesesesescacs ___ eeeees 2.14
+
+Chapter-2 Introduction to HTML. .............. ___  ___ ssssenseessssnnenscecnnseceacenacesersneneseenerecsase ___ ones 2.15—2.38
+2.1 INTRODUCTION 00.0.0...  ___   ___ es ___  ___ seeeecncecscnsese ___ ceasseaeaeeaerseaeeaneesaen race  ___  2.15
+2.2.  ___   ___  ..........-:0 ___  ___  ___ seserececsenssseseseceaseescecuceneecsensesceeeaeeessa ___ ecsceeeneees 2.15
+2.3  ___  ....ccseccssccsscsessseccsecssressesstssnsscereuseaseesssececssessneessnsnessenatessensusseaeseeeses ___ aeass 2.15
+2.4 MARKING UP TEXT ........ ___ :ccsssesece ___ seseneeeasanseseeesaassseasesssneneeseeonsesesoasn ___ tepaseseraseeuseepaseas 2.16
+2.5 TOOLS FOR WEB PUBLISHING. ........ ___ scssessesceererssscssecsecueresentonsescctagesteraseaceasccessrspensensensas 2.16
+2.6 DOCUMENT TAGS 2..... ___ ccsscsesseccencesesaeeseesaueeecenscedorsescnsesaaeseesadaeetesansssceonssesssarensaaseseusnens 2.19
+2.7. CREATING HTML TEMPLATE ...........c:ccseses ___ roesecetenseneaeseceeeasavscrsessesroescucuvevsussseeteeceneauaeas 2.19
+2.8 UNDERSTANDING TAGS .. ___  ___ ccsse ___ sccecnveccessevssconaecessacessssescsnansecusseecessaseeaessssecessess ___ asuevense 2.20
+2.9  ___  cocecssccsesseseecs ___ sesssscssseseesessvessessessssseesesnesscsessessssussesessesersesesssasercacereeceves 2.21
+2.10 HEAD ELEMENT ........ ___ ccessccesecsssceseesreessecssencssesanecse ___ seenreeesssessasecaeessaeseceegaeaesseuseseseeesanens 2.21
+D-11  ___   ___ sccsseccsscsssessssssesseccsssessssecesssccsssessssecssecessessssensesssesssusatassssecarsssssssesteseecess 2.22
+2.12 BODY ELEMENT ......s ___ csssssessssssstseserssserssescseses ___ esssssseeseeeseseauseassssesesecsesesesuasaveseeassacgneanes 2.22
+2.13  ___  ....... ___ sccsssesceseeseeerrersessescesneaesnesiessetoesaessseneserscausesesseeseeesaeessaueararanseneses 2.28
+9.14  ___  ELEMENT u.. ___ . 2.30
+2.15  ___  TAG «...sossssrstutin ___ ent ___  ___ enanistitienitetienasianisictustntien 2.31
+2.16 PARAGRAPH ELEMENT ........ ___  2.32
+2.17 CENTER ELEMENT ......... ___ : ___ ceseseeseeeeeeres  ___  2.33
+Points £0 REMEMBER  ___ -overerreecersscnsorseressscenscanss ___ essassssassssassssusnsnsassnsssssasavacsserssersecesenss, 2.33
+SOLVED EXERCISES .-..ssesesseseeesvevsnernsscarsssvenssessarnennscsusseses ___ sessosussensanaensssussessansveressuesassussarasaseransesess, 2.34
+REVIEW QUESTIONS vessesessessssssssserseessessssercsuessenecnesnense ___ nessaseesssseenssesseanssennesssstsatisstantativananeesscess.. 2.37
+LAB EXERCISES scevssesssssessssesesnseesssvscenssvscesnniceesnssasenuscttsnassss ___ sessesecsnuetssaneersueertuessueessuiseettseseecess, 2.37
+
+(13)
