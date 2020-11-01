@@ -14,7 +14,8 @@ This project is maintained on Python 3.7 version.
 
 ### WorkFlow
 
-This project is done in two parts :                  
+This project is done in two parts :                                                                                                            
+                                                                                                                                                             
 [1] Localization and Removal of annotation using image processing techniques.                    
 [2] Spelling correction of OCR generated output using Natural Language Processing.     
 
@@ -37,8 +38,16 @@ In this part we intent to localize and remove the annotation from the document i
 
 
 ### Spelling correction of OCR generated output
+                                                                                                                                  
+In this part we intent to correct the speling errors fro the OCR generated text. We proposed a post-processing technique using Natural Language
+Processing and Deep Neural Networks. The solution is divided into two main parts :                                                             
+                                                                                                                                               
+[1] Dictionary based detection of incorrect words.
+[2] Context based correction of incorrect words.  
 
-The training of face detection model is done in `Cartoon_Face_Detection.ipynb`. The trained weights can be downloaded from [here](something). Function for prediction on a new image is also present in this notebook.
+
+                                                                                                                                 
+
 
 #### Emotion Recognition Model
 Run the `train.sh` file to start the training.    
