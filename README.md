@@ -22,7 +22,7 @@ This project is done in two parts :
 <p align="center"> <img src="workflow.jpg"/> </p>
 
 
-### Localization and Removal of Annotation
+## Localization and Removal of Annotation
 
 In this part we intent to localize and remove the annotation from the document images. We implemented the following steps to achieve that :      
                 
@@ -35,14 +35,15 @@ In this part we intent to localize and remove the annotation from the document i
                                                                                                                                                                                                    
                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                              
-<p align="left"> <img src="input-image.jpg" width="45%" height="50%"/> <img src="localized-annotaion.jpg" width="45%" height="50%"/> <br> <em>Input Image</em><em>Localized Annotation</em> </p>                                                                                                                            
+<p align="left"> <img src="input-image.jpg" width="45%" height="50%"/> <img src="localized-annotaion.jpg" width="45%" height="50%"/> <br> <em>Input Image</em><span class="tab"></span>
+<em>Localized Annotation</em> </p>                                                                                                                            
                                                                                                                                                                
 <p align="left"> <img src="annotation-mask.jpg" width="45%" height="50%"/> <img src="regenerated-image.png" width="45%" height="50%"/> <br> <em>Annotation Mask</em><em>Regenerated Image</em> </p>
                                                                                                                                                           
                                                                                                                                                             
                                                                                                                                                             
 
-### Spelling correction of OCR generated output
+## Spelling correction of OCR generated output
                                                                                                                                   
 In this part we intent to correct the speling errors fro the OCR generated text. We proposed a post-processing technique using Natural Language
 Processing and Deep Neural Networks. The solution is divided into two main parts :                                                             
