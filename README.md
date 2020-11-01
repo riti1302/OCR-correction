@@ -75,7 +75,11 @@ data.
                                                                                                                                                                    
  ### Training and Testing
                                                                                                                                                                 
- Training and Prediction can be run from the (SpellCheck.ipynb)[SpellCheck.ipynb].
+ Training and Prediction can be run from the (SpellCheck)[SpellCheck.ipynb].
+ 
+ ### Contributions                                                                                                                                
+                                                                                                                                              
+ Please feel free to contribute to the repository.
                                                                                                                                                                
 
 
