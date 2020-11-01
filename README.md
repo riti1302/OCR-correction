@@ -1,5 +1,5 @@
 # OCR-correction
-Correction of annotation affected words in document images
+We proposed an end-to-end method for correcting errors in annotation affected documents images. For detailed understanding please refer to the [thesis]('thesis.pdf')
 
 
 ### Prerequisites
@@ -15,19 +15,19 @@ This project is maintained on Python 3.7 version.
 ### WorkFlow
 
 This project is done in two parts :                  
-[1] Pre-processing : Localization and Removal of annotation using image processing techniques.                    
-[2] Post-processing : Spelling correction of OCR generated output.
+[1] Localization and Removal of annotation using image processing techniques.                    
+[2] Spelling correction of OCR generated output using Natural Language Processing.     
 
 <p align="center"> <img src="workflow.jpg"/> </p>
 
 
-### Preprocessing
+### Localization and Removal of Annotation
 
-Dataset is in the form of video file from which frames are needed to be extracted. Frames from the video can be obtained using `get_frames.py`.           
-The faces for face detection are annotated using [labelImg](https://github.com/tzutalin/labelImg). The annotations for each frame can be transferred to a csv file using `xml_to_csv.py`.  
-   
-Dataset for emotion recognition can be obtained using `get_dataset.py`. It takes a csv file containing the coordinates for the faces and its corresponding emotion and create a dataset for the emotion recognition model.   
-If you want to train the emotion recognition model on a custom dataset then keep the dataset inside  [training_dataset](Emotion_Recognition/training_dataset) images of emotion in a saperate folder.
+In this part we intent to localize and remove the annotation from the document images. We implemented the following steps to achieve that :        
+[1] Pre-processing - Correcting skew, changing DPI to 300, adaptive thresholding and removing noise using gaussion blur.        
+[2] Localizing annotation by filtering out connected components having area more than some threshold value.         
+[3] Creating annotation masks using path opening and closing operations (which is required for inpainting).       
+[4] 
 
 ### Training 
 #### Face Detection model
