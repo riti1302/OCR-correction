@@ -30,14 +30,17 @@ In this part we intent to localize and remove the annotation from the document i
 [2] Localizing annotation by filtering out connected components having area more than some threshold value.         
 [3] Creating annotation masks using path opening and closing operations (which is required for inpainting).       
 [4] Regenerate the annotation affected text using inpainting.
-                                                                                                                                                        
+                                                                                                                                                                         
+                                                                                                                                                                                                   
+                                                                                                                                                                                                   
                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                              
 <p align="left"> <img src="input-image.jpg" width="45%" height="50%"/> <img src="localized-annotaion.jpg" width="45%" height="50%"/> <br> <em>Input Image</em><em>Localized Annotation</em> </p>                                                                                                                            
                                                                                                                                                                
 <p align="left"> <img src="annotation-mask.jpg" width="45%" height="50%"/> <img src="regenerated-image.png" width="45%" height="50%"/> <br> <em>Annotation Mask</em><em>Regenerated Image</em> </p>
-
-
+                                                                                                                                                          
+                                                                                                                                                            
+                                                                                                                                                            
 
 ### Spelling correction of OCR generated output
                                                                                                                                   
@@ -75,7 +78,7 @@ data.
                                                                                                                                                                    
  ### Training and Testing
                                                                                                                                                                 
- Training and Prediction can be run from the (SpellCheck)[SpellCheck.ipynb].
+ Training and Prediction can be run from the `SpellCheck.ipynb`
  
  ### Contributions                                                                                                                                
                                                                                                                                               
