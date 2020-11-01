@@ -1,5 +1,5 @@
 # OCR-correction
-We proposed an end-to-end method for correcting errors in annotation affected document images. For detailed understanding please refer to our [thesis](thesis.pdf).
+We proposed an end-to-end method for correcting errors in annotation affected document images. For detailed understanding please refer to our [thesis](Thesis.pdf).
 
 
 ### Prerequisites
@@ -28,6 +28,9 @@ In this part we intent to localize and remove the annotation from the document i
 [2] Localizing annotation by filtering out connected components having area more than some threshold value.         
 [3] Creating annotation masks using path opening and closing operations (which is required for inpainting).       
 [4] Regenerate the annotation affected text using inpainting.
+
+<p align="left"> <img src="input-image.jpg"/> </p>
+
 
 ### Training 
 #### Face Detection model
