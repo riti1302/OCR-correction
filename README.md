@@ -35,7 +35,7 @@ In this part we intent to localize and remove the annotation from the document i
                                                                                                                                                                                                    
                                                                                                                                                            
                                                                                                                                                                                                                                                                                                                                              
-<p align="left"> <img src="input-image.jpg" width="45%" height="50%"/> <img src="localized-annotaion.jpg" width="45%" height="50%"/> <br> <em>Input Image</em><span class="tab"></span><span class="tab"></span><span class="tab"></span><span class="tab"></span><span class="tab"></span><span class="tab"></span>
+<p align="left"> <img src="input-image.jpg" width="45%" height="50%"/> <img src="localized-annotaion.jpg" width="45%" height="50%"/> <br> <em>Input Image</em><span class="tab">
 <em>Localized Annotation</em> </p>                                                                                                                            
                                                                                                                                                                
 <p align="left"> <img src="annotation-mask.jpg" width="45%" height="50%"/> <img src="regenerated-image.png" width="45%" height="50%"/> <br> <em>Annotation Mask</em><em>Regenerated Image</em> </p>
