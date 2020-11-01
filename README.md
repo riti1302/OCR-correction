@@ -23,13 +23,14 @@ This project is done in two parts :
 
 ### Localization and Removal of Annotation
 
-In this part we intent to localize and remove the annotation from the document images. We implemented the following steps to achieve that :        
+In this part we intent to localize and remove the annotation from the document images. We implemented the following steps to achieve that :      
+                
 [1] Pre-processing - Correcting skew, changing DPI to 300, adaptive thresholding and removing noise using gaussion blur.        
 [2] Localizing annotation by filtering out connected components having area more than some threshold value.         
 [3] Creating annotation masks using path opening and closing operations (which is required for inpainting).       
 [4] Regenerate the annotation affected text using inpainting.
 
-<p align="left"> <img src="input-image.jpg" width="50%" height="50%"/> <img src="localized-annotaion.jpg" width="50%" height="50%"/> </p>
+<p align="left"> <img src="input-image.jpg" width="100" height="50%"/> <img src="localized-annotaion.jpg" width="100" height="50%"/> </p>
 
 
 ### Training 
