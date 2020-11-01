@@ -64,12 +64,20 @@ neurons and, therefore, can be unfolded into a general feed-forward network.
 
 
                                                                                                                                                                 
-                                                                                                                                                                #### Bahdanau Attention 
+#### Bahdanau Attention 
                                                                                                                                                              
 In the regular seq2seq model, we embed our input sequence into a context vector, which is then used to make predictions. In the attention variant, the context vector is replaced by a customized context for the hidden decoder vector. The result is the sum over contribution over all of the input hidden vectors. Attention  is important for the model to generalize well to test data, in that our model might learn to minimize the cost function during train time, but it is only when it learns attention that we know that it has an idea that it knows exactly where to look (and put that knowledge into the context) for it to generalize well to test
 data.    
                                                                                                                                                                 
-<p align="center"> <img src="attention_mechanism.jpg"/> </p>
+<p align="center"> <img src="attention_mechanism.jpg"/> </p>                                                                                                        
+                                                                                                                                                                    
+                                                                                                                                                                    
+                                                                                                                                                                   
+ ### Training and Testing
+                                                                                                                                                                
+ Training and Prediction can be run from the (SpellCheck.ipynb)[SpellCheck.ipynb].
+                                                                                                                                                               
+
 
 
 
