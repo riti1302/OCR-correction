@@ -29,13 +29,14 @@ In this part we intent to localize and remove the annotation from the document i
 [2] Localizing annotation by filtering out connected components having area more than some threshold value.         
 [3] Creating annotation masks using path opening and closing operations (which is required for inpainting).       
 [4] Regenerate the annotation affected text using inpainting.
+                                                                                                                                                        
+                                                                                                                
+<p align="left"> <img src="input-image.jpg" width="45%" height="50%"/> <img src="localized-annotaion.jpg" width="45%" height="50%"/> <br> <em>Input Image</em><em>Localized Annotation</em> </p>
+<p align="left"> <img src="annotation-mask.jpg" width="45%" height="50%"/> <img src="regenerated-image.png" width="45%" height="50%"/> <br> <em>Annotation Mask</em><em>Regenerated Image</em> </p>
 
-<p align="left"> <img src="input-image.jpg" width="45%" height="50%"/> <img src="localized-annotaion.jpg" width="45%" height="50%"/> <br> <em>Input Image</em>&emsp<emsp><emsp><emsp><em>Localized Annotation</em></p>
-<p align="left"> <img src="annotation-mask.jpg" width="45%" height="50%"/> <img src="regenerated-image.png" width="45%" height="50%"/> </p>
 
 
-### Training 
-#### Face Detection model
+### Spelling correction of OCR generated output
 
 The training of face detection model is done in `Cartoon_Face_Detection.ipynb`. The trained weights can be downloaded from [here](something). Function for prediction on a new image is also present in this notebook.
 
@@ -44,12 +45,3 @@ Run the `train.sh` file to start the training.
 Prediction on a new image can be done using `get_prediction.py`  
 
 
-### Outputs
-
-<p align="center"> <img src="frame238.jpg" /> </p>
-
-<p align="center"> <img src="frame246.jpg"/> </p>
-
-<p align="center"> <img src="frame0.jpg"/> </p>
-
-<p align="center"> <img src="frame2.jpg"/> </p>
