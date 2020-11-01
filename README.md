@@ -1,5 +1,5 @@
 # OCR-correction
-We proposed an end-to-end method for correcting errors in annotation affected document images. For detailed understanding please refer to our [thesis]('thesis.pdf').
+We proposed an end-to-end method for correcting errors in annotation affected document images. For detailed understanding please refer to our [thesis](thesis.pdf).
 
 
 ### Prerequisites
