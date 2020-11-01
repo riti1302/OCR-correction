@@ -14,9 +14,12 @@ This project is maintained on Python 3.7 version.
 
 ### WorkFlow
 
-This project is done in two parts :
-[1] Pre-processing : Localization and Removal of annotation using image processing techniques.
+This project is done in two parts :                  
+[1] Pre-processing : Localization and Removal of annotation using image processing techniques.                    
 [2] Post-processing : Spelling correction of OCR generated output.
+
+<p align="center"> <img src="workflow.jpg"/> </p>
+
 
 ### Preprocessing
 
