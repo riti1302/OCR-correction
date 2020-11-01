@@ -4,7 +4,7 @@ Correction of annotation affected words in document images
 
 ### Prerequisites
 
-This Repository is maintained on Python 3.7 version.
+This project is maintained on Python 3.7 version.
 
   - numpy == 1.18.2
   - cv2 =< 4.0 
@@ -12,9 +12,11 @@ This Repository is maintained on Python 3.7 version.
   - diplib
 
 
-### Dataset
+### WorkFlow
 
-Dataset consists of a [training](Data) video and [testing](Data) video along with csv file which contains the emotions of the cartoon corresponding to each frame (frame rate = 5) of the video.
+This project is done in two parts :
+[1] Pre-processing : Localization and Removal of annotation using image processing techniques.
+[2] Post-processing : Spelling correction of OCR generated output.
 
 ### Preprocessing
 
