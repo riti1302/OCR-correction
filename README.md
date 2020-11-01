@@ -29,7 +29,7 @@ In this part we intent to localize and remove the annotation from the document i
 [3] Creating annotation masks using path opening and closing operations (which is required for inpainting).       
 [4] Regenerate the annotation affected text using inpainting.
 
-<p align="left"> <img src="input-image.jpg" width="50%" height="50%"/> </p>
+<p align="left"> <img src="input-image.jpg" width="50%" height="50%"/> <img src="localized-annotaion.jpg" width="50%" height="50%"/> </p>
 
 
 ### Training 
